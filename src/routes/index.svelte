@@ -1,15 +1,12 @@
 <script lang="ts">
-	import Message from '@feltcoop/felt/ui/Message.svelte';
-
-	import Mreows from '$lib/ui/Mreows.svelte';
+	// ...
 </script>
 
 <main class="column markup">
 	<section class="column-min">
-		<h1>felt-template</h1>
-		<Message>hello and welcome</Message>
+		<h1>about</h1>
+		<blockquote>welcome to spiderspace</blockquote>
 	</section>
-	<Mreows />
 </main>
 
 <style>
