@@ -3,6 +3,7 @@
 > spiderspace is web prototypes
 
 - [www.spiderspace.org](https://www.spiderspace.org)
+- [spiderspace.github.io/about](https://spiderspace.github.io/about)
 
 ## usage
 
@@ -46,4 +47,4 @@ gro deploy
 
 ## license [🐦](https://wikipedia.org/wiki/Free_and_open-source_software)
 
-public domain ([The Unlicense](license))
+public domain ⚘ [The Unlicense](license)
