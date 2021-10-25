@@ -5,7 +5,7 @@
 <main class="column markup">
 	<section class="column-min">
 		<h1>about</h1>
-		<blockquote>welcome to spiderspace</blockquote>
+		<blockquote>spiderspace is web prototypes</blockquote>
 	</section>
 </main>
 

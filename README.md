@@ -1,6 +1,8 @@
 # about
 
-> [spiderspace.org](https://www.spiderspace.org)
+> spiderspace is web prototypes
+
+- [spiderspace.org](https://www.spiderspace.org)
 
 ## usage
 
