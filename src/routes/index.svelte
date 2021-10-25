@@ -22,7 +22,7 @@
 		<a
 			class="icon flower"
 			target="_blank"
-			href="https://github.com/spiderspace/spiderspace"
+			href="https://github.com/spiderspace/about"
 			title={githubSourceText}
 		>
 			⚘
