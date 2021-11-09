@@ -6,9 +6,9 @@ discussion: [Welcome to Spiderspace](https://github.com/spiderspace/spiderspace/
 
 | [🕸️](https://www.spiderspace.org)                                        | [🐙🐱](https://github.com/spiderspace)                                |
 | ------------------------------------------------------------------------ | --------------------------------------------------------------------- |
-| [spiderspace.github.io/about](https://spiderspace.github.io/about)       | spiderspace/about                                                     |
 | [www.spiderspace.org](https://www.spiderspace.org)                       | [spiderspace/spiderspace](https://github.com/spiderspace/spiderspace) |
 | [spiderspace.github.io/stylevar](https://spiderspace.github.io/stylevar) | [spiderspace/stylevar](https://github.com/spiderspace/stylevar)       |
+| [**spiderspace.github.io/about**](https://spiderspace.github.io/about)   | **spiderspace/about**                                                 |
 
 ## usage
 
