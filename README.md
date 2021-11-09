@@ -2,9 +2,13 @@
 
 > spiderspace is web prototypes
 
-- [www.spiderspace.org](https://www.spiderspace.org)
-- [spiderspace.github.io/about](https://spiderspace.github.io/about)
-- [spiderspace.github.io/css-vars](https://spiderspace.github.io/css-vars)
+discussion: [Welcome to Spiderspace](https://github.com/spiderspace/spiderspace/discussions/1)
+
+| [🕸️](https://www.spiderspace.org)                                        | [🐙🐱](https://github.com/spiderspace)                                |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------- |
+| [spiderspace.github.io/about](https://spiderspace.github.io/about)       | spiderspace/about                                                     |
+| [www.spiderspace.org](https://www.spiderspace.org)                       | [spiderspace/spiderspace](https://github.com/spiderspace/spiderspace) |
+| [spiderspace.github.io/stylevar](https://spiderspace.github.io/stylevar) | [spiderspace/stylevar](https://github.com/spiderspace/stylevar)       |
 
 ## usage
 
