@@ -2,13 +2,17 @@
 
 > spiderspace is web prototypes
 
+This is the "about" page for [spiderspace/spiderspace](https://github.com/spiderspace/spiderspace).
+Spiderspace is a collection of web software experiments
+with a focus on [Svelte](https://github.com/sveltejs/svelte).
+
 discussion: [Welcome to Spiderspace](https://github.com/spiderspace/spiderspace/discussions/1)
 
-| [🕸️](https://www.spiderspace.org)                                        | [🐙🐱](https://github.com/spiderspace)                                |
-| ------------------------------------------------------------------------ | --------------------------------------------------------------------- |
-| [www.spiderspace.org](https://www.spiderspace.org)                       | [spiderspace/spiderspace](https://github.com/spiderspace/spiderspace) |
-| [spiderspace.github.io/stylevar](https://spiderspace.github.io/stylevar) | [spiderspace/stylevar](https://github.com/spiderspace/stylevar)       |
-| [**spiderspace.github.io/about**](https://spiderspace.github.io/about)   | **spiderspace/about**                                                 |
+| [🕸️](https://www.spiderspace.org)                                        | [🐙🐱](https://github.com/spiderspace)                                | 🧪                                              |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------- | ----------------------------------------------- |
+| [www.spiderspace.org](https://www.spiderspace.org)                       | [spiderspace/spiderspace](https://github.com/spiderspace/spiderspace) | Svelte; safe+serializable layout+content blocks |
+| [spiderspace.github.io/stylevar](https://spiderspace.github.io/stylevar) | [spiderspace/stylevar](https://github.com/spiderspace/stylevar)       | Svelte; CSS custom properties                   |
+| [**spiderspace.github.io/about**](https://spiderspace.github.io/about)   | **spiderspace/about**                                                 |                                                 |
 
 ## usage
 
