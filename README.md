@@ -5,6 +5,7 @@
 This is the "about" page for [spiderspace/spiderspace](https://github.com/spiderspace/spiderspace).
 Spiderspace is a collection of web software experiments
 with a focus on [Svelte](https://github.com/sveltejs/svelte).
+This tiny app prototypes how Spiderspace can embed arbitrary websites with iframes.
 
 discussion: [Welcome to Spiderspace](https://github.com/spiderspace/spiderspace/discussions/1)
 
