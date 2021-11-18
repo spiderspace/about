@@ -15,7 +15,7 @@ discussion: [Welcome to Spiderspace](https://github.com/spiderspace/spiderspace/
 
 | [🕸️](https://www.spiderspace.org)                                        | [🐙🐱](https://github.com/spiderspace)                                | 🧪                                              |
 | ------------------------------------------------------------------------ | --------------------------------------------------------------------- | ----------------------------------------------- |
-| [www.spiderspace.org](https://www.spiderspace.org)                       | [spiderspace/spiderspace](https://github.com/spiderspace/spiderspace) | Svelte; safe+serializable layout+content blocks |
+| [www.spiderspace.org](https://www.spiderspace.org)                       | [spiderspace/spiderspace](https://github.com/spiderspace/spiderspace) | Svelte; safe&serializable layout&content blocks |
 | [spiderspace.github.io/stylevar](https://spiderspace.github.io/stylevar) | [spiderspace/stylevar](https://github.com/spiderspace/stylevar)       | Svelte; CSS custom properties                   |
 | [**spiderspace.github.io/about**](https://spiderspace.github.io/about)   | **spiderspace/about**                                                 |                                                 |
 
