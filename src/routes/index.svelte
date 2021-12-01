@@ -1,8 +1,6 @@
 <script lang="ts">
-	import GithubLogo from '$lib/ui/GithubLogo.svelte';
-
-	const githubLinkText = 'www.spiderspace.org source code on GitHub ⚘ public domain';
-	const githubSourceText = 'www.spiderspace.org/about source code on GitHub ⚘ public domain';
+	import IconGithub from '~icons/logos/github-icon';
+	import IconFlower from '~icons/mdi/flower-tulip';
 </script>
 
 <main class="column markup">
@@ -15,17 +13,18 @@
 			class="icon"
 			target="_blank"
 			href="https://github.com/spiderspace/spiderspace"
-			title={githubLinkText}
+			title="spiderspace source code on GitHub"
 		>
-			<GithubLogo label={githubLinkText} />
+			<IconGithub width={64} height={64} />
 		</a>
 		<a
-			class="icon flower"
+			class="icon"
 			target="_blank"
 			href="https://github.com/spiderspace/about"
-			title={githubSourceText}
+			title="spiderspace/about source code on GitHub"
 		>
-			⚘
+			<!-- TODO should probably be the runtime value of `icon_size_sm` -->
+			<IconFlower width={29} height={29} />
 		</a>
 	</footer>
 </main>
@@ -51,18 +50,9 @@
 		display: flex;
 		color: #000;
 	}
-	.flower {
-		font-size: var(--font_size_xl);
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		width: var(--spacing_xl5);
-		height: var(--spacing_xl5);
-	}
 	.icon {
 		--border_width: var(--border_width_4);
 		--border_color: transparent;
-		text-decoration: none;
 		border-radius: 50%;
 		border: var(--border_width) double var(--border_color);
 	}

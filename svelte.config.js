@@ -1,5 +1,6 @@
 import {typescript} from 'svelte-preprocess-esbuild';
 import static_adapter from '@sveltejs/adapter-static';
+import Icons from 'unplugin-icons/vite';
 
 const dev = process.env.NODE_ENV !== 'production';
 
@@ -21,6 +22,7 @@ export default {
 			optimizeDeps: {
 				exclude: ['@feltcoop/felt'],
 			},
+			plugins: [Icons({compiler: 'svelte'})],
 		},
 	},
 };

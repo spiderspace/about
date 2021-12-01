@@ -19,6 +19,25 @@ discussion: [Welcome to Spiderspace](https://github.com/spiderspace/spiderspace/
 | [spiderspace.github.io/stylevar](https://spiderspace.github.io/stylevar) | [spiderspace/stylevar](https://github.com/spiderspace/stylevar)       | Svelte; CSS custom properties                   |
 | [**spiderspace.github.io/about**](https://spiderspace.github.io/about)   | **spiderspace/about**                                                 | spiderspace is web prototypes                   |
 
+## features
+
+### host window communication
+
+> TODO
+
+### icons
+
+This project includes SVG icons following the pattern described by the talk
+[Dominik G - Sveltable Vector Graphics](https://www.youtube.com/watch?v=6fW613fblwk):
+
+- install dev deps [`@iconify/json`](https://github.com/iconify/collections-json)
+  and [`unplugin-icons`](https://github.com/antfu/unplugin-icons)
+  (but consider changing the pattern to explicitly import collections from
+  `@iconify-json/*` instead of installing all ~120MB)
+- add the Vite icons plugin to `svelte.config.js`
+- import icons as Svelte components: `import IconGithub from '~icons/logos/github-icon';`
+- discover icons via [icones.js.org](https://icones.js.org/)
+
 ## usage
 
 ```bash
