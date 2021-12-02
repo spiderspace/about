@@ -5,11 +5,7 @@
 This is the "about" page for [Spiderspace](https://github.com/spiderspace/spiderspace),
 a collection of web software experiments
 with a focus on [Svelte](https://github.com/sveltejs/svelte).
-
-This tiny app will prototype how Spiderspace can embed arbitrary websites with iframes,
-and set up two-way privacy-respecting communication. (it's not yet implemented)
-The next feature to implement will likely be sending a message to the host window (if one exists)
-to request a particular rendered width and height. The host can choose to ignore this request.
+See below for this repo's features.
 
 discussion: [Welcome to Spiderspace](https://github.com/spiderspace/spiderspace/discussions/1)
 
@@ -20,10 +16,6 @@ discussion: [Welcome to Spiderspace](https://github.com/spiderspace/spiderspace/
 | [**spiderspace.github.io/about**](https://spiderspace.github.io/about)   | **spiderspace/about**                                                 | spiderspace is web prototypes                   |
 
 ## features
-
-### host window communication
-
-> TODO
 
 ### icons
 
@@ -39,6 +31,15 @@ This project includes SVG icons following the pattern described by the talk
   to [`src/global.d.ts`](/src/global.d.ts)
 - import icons as Svelte components: `import IconGithub from '~icons/logos/github-icon';`
 - discover icons via [icones.js.org](https://icones.js.org/)
+
+### host window communication
+
+> TODO
+
+This tiny app will prototype how Spiderspace can embed arbitrary websites with iframes,
+and set up two-way privacy-respecting communication. (it's not yet implemented)
+The next feature to implement will likely be sending a message to the host window (if one exists)
+to request a particular rendered width and height. The host can choose to ignore this request.
 
 ## usage
 
