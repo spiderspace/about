@@ -34,7 +34,7 @@ This project includes SVG icons following the pattern described by the talk
   and [`unplugin-icons`](https://github.com/antfu/unplugin-icons)
   (but consider changing the pattern to explicitly import collections from
   `@iconify-json/*` instead of installing all ~120MB)
-- add the Vite icons plugin to `svelte.config.js`
+- add the Vite icons plugin from `unplugin-icons/vite` to `svelte.config.js`
 - import icons as Svelte components: `import IconGithub from '~icons/logos/github-icon';`
 - discover icons via [icones.js.org](https://icones.js.org/)
 
