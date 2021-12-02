@@ -13,7 +13,7 @@ discussion: [Welcome to Spiderspace](https://github.com/spiderspace/spiderspace/
 | ------------------------------------------------------------------------ | --------------------------------------------------------------------- | ----------------------------------------------- |
 | [www.spiderspace.org](https://www.spiderspace.org)                       | [spiderspace/spiderspace](https://github.com/spiderspace/spiderspace) | Svelte; safe&serializable layout&content blocks |
 | [spiderspace.github.io/stylevar](https://spiderspace.github.io/stylevar) | [spiderspace/stylevar](https://github.com/spiderspace/stylevar)       | Svelte; CSS custom properties                   |
-| [**spiderspace.github.io/about**](https://spiderspace.github.io/about)   | **spiderspace/about**                                                 | spiderspace is web prototypes                   |
+| [**spiderspace.github.io/about**](https://spiderspace.github.io/about)   | **spiderspace/about**                                                 | Svelte+[iconify](https://github.com/iconify)    |
 
 ## features
 
