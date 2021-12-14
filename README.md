@@ -2,18 +2,22 @@
 
 > spiderspace is web prototypes
 
-This is the "about" page for [Spiderspace](https://github.com/spiderspace/spiderspace),
-a collection of web software experiments
-with a focus on [Svelte](https://github.com/sveltejs/svelte).
-See below for this repo's features.
-
-discussion: [Welcome to Spiderspace](https://github.com/spiderspace/spiderspace/discussions/1)
+> status: working integration with `iconify` and
 
 | [🕸️](https://www.spiderspace.org)                                        | [🐙🐱](https://github.com/spiderspace)                                | 🧪                                                                          |
 | ------------------------------------------------------------------------ | --------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | [www.spiderspace.org](https://www.spiderspace.org)                       | [spiderspace/spiderspace](https://github.com/spiderspace/spiderspace) | Svelte; safe&serializable layout&content blocks                             |
 | [spiderspace.github.io/stylevar](https://spiderspace.github.io/stylevar) | [spiderspace/stylevar](https://github.com/spiderspace/stylevar)       | Svelte; CSS custom properties in runtime JS                                 |
 | [**spiderspace.github.io/about**](https://spiderspace.github.io/about)   | **spiderspace/about**                                                 | Svelte+[iconify](https://github.com/iconify); spiderspace is web prototypes |
+
+## motivation
+
+This is the "about" page for [Spiderspace](https://github.com/spiderspace/spiderspace),
+a collection of web prototypes with [Svelte](https://github.com/sveltejs/svelte)
+and [SvelteKit](https://github.com/sveltejs/kit).
+
+Looking for discussion?
+[Welcome to Spiderspace](https://github.com/spiderspace/spiderspace/discussions/1)
 
 ## features
 
@@ -31,6 +35,8 @@ This project includes SVG icons following the pattern described by the talk
   to [`src/global.d.ts`](/src/global.d.ts)
 - import icons as Svelte components: `import IconGithub from '~icons/logos/github-icon';`
 - discover icons via [icones.js.org](https://icones.js.org/)
+- TODO
+  - document the number of dependencies this adds
 
 ### host window communication
 
