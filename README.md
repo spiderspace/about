@@ -2,7 +2,9 @@
 
 > spiderspace is web prototypes
 
-> status: working integration with `iconify` and
+> status: working example integration with
+> [`@iconify/json`](https://github.com/iconify/collections-json) and
+> [`unplugin-icons`](https://github.com/antfu/unplugin-icons)
 
 | [🕸️](https://www.spiderspace.org)                                        | [🐙🐱](https://github.com/spiderspace)                                | 🧪                                                                          |
 | ------------------------------------------------------------------------ | --------------------------------------------------------------------- | --------------------------------------------------------------------------- |
