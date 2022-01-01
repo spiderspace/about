@@ -6,11 +6,10 @@
 > [`@iconify/json`](https://github.com/iconify/collections-json) and
 > [`unplugin-icons`](https://github.com/antfu/unplugin-icons)
 
-| [🕸️](https://www.spiderspace.org)                                        | [🐙🐱](https://github.com/spiderspace)                                | 🧪                                                                          |
-| ------------------------------------------------------------------------ | --------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| [www.spiderspace.org](https://www.spiderspace.org)                       | [spiderspace/spiderspace](https://github.com/spiderspace/spiderspace) | Svelte; safe&serializable layout&content blocks                             |
-| [spiderspace.github.io/stylevar](https://spiderspace.github.io/stylevar) | [spiderspace/stylevar](https://github.com/spiderspace/stylevar)       | Svelte; CSS custom properties in ur runtime                                 |
-| [**spiderspace.github.io/about**](https://spiderspace.github.io/about)   | **spiderspace/about**                                                 | Svelte+[iconify](https://github.com/iconify); spiderspace is web prototypes |
+| [🕸️](https://www.spiderspace.org)                                      | [🐙🐱](https://github.com/spiderspace)                                | 🧪                                                                          |
+| ---------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [www.spiderspace.org](https://www.spiderspace.org)                     | [spiderspace/spiderspace](https://github.com/spiderspace/spiderspace) | Svelte; safe&serializable layout&content blocks                             |
+| [**spiderspace.github.io/about**](https://spiderspace.github.io/about) | **spiderspace/about**                                                 | Svelte+[iconify](https://github.com/iconify); spiderspace is web prototypes |
 
 ## motivation
 
