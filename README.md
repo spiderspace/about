@@ -43,7 +43,7 @@ This project includes SVG icons following the pattern described by the talk
 
 > TODO
 
-This tiny app will prototype how Spiderspace can embed arbitrary websites with iframes,
+This repo will also prototype how Spiderspace can embed arbitrary websites with iframes,
 and set up two-way privacy-respecting communication. (it's not yet implemented)
 The next feature to implement will likely be sending a message to the host window (if one exists)
 to request a particular rendered width and height. The host can choose to ignore this request.
