@@ -13,7 +13,6 @@ export default {
 	kit: {
 		adapter: static_adapter(),
 		target: '#root',
-		paths: {base: dev ? '' : '/about'},
 		files: {assets: 'src/static'},
 		vite: {
 			ssr: {
