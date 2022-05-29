@@ -4,6 +4,7 @@
   "license": "Unlicense",
   "version": "0.0.1",
   "type": "module",
+  "homepage": "https://about.spiderspace.org/",
   "engines": {
     "node": ">= 16.6"
   },
